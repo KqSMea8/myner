@@ -1,0 +1,2211 @@
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  28.514774322509766
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  31.152530670166016
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  76.02572631835938
+predict : B-LOC O O B-LOC O O O O O O O O O O O O O O O O 
+tagets : B-LOC B-TIME O B-LOC O O O O O O O O O O O O O O O O 
+score :  223.3194580078125
+predict : O B-LOC O O O B-ORG O O O O O O O O B-LOC O B-LOC O O O O O O O O O O O B-PER O O O O 
+tagets : O B-PER O O O B-ORG O O O O O O O O B-ORG O B-ORG O O O O O O B-ORG O O O O O O O O O 
+score :  327.9745788574219
+predict : O O O O O O O O O O B-ROLE O O O O O O O O O O O O B-TIME I-TIME O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  283.28875732421875
+predict : O B-LOC O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O 
+score :  144.84251403808594
+predict : O O O B-ROLE B-PER O B-CRIME O O O B-TIME O O O O O O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O B-TIME O O O O 
+tagets : O O O B-ROLE B-PER O B-CRIME O O O B-TIME O O O O O O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O B-TIME O O O O 
+score :  637.2811279296875
+predict : B-ORG O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  137.7516632080078
+predict : O O O B-ROLE B-PER I-PER O B-CRIME O O O B-TIME O O O O O O 
+tagets : O O O B-ROLE B-PER I-PER O B-CRIME O O O B-TIME O O O O O O 
+score :  179.19265747070312
+predict : O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O 
+tagets : O B-ROLE O O O O O O O O O O O O O O O O O O 
+score :  236.18475341796875
+predict : O O O O O O O O B-PER O O 
+tagets : O O O O O O O O O O O 
+score :  100.46658325195312
+predict : O O B-ORG O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O 
+tagets : O O B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  293.96429443359375
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  213.974365234375
+predict : B-ORG O O O O O O O O O 
+tagets : B-PER B-ROLE O O O O O O B-ROLE O 
+score :  97.95897674560547
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  386.6970520019531
+predict : O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O B-ORG B-PER O O O O O O O O O B-PER O O O O O O O B-LOC O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  479.67388916015625
+predict : O O O B-ORG O O O O O B-ORG O B-PER O B-ORG O O O 
+tagets : O O O B-ORG O O O O O B-ORG O B-ORG O B-ORG O O O 
+score :  148.7312774658203
+predict : B-ORG I-ORG O O O O O O O 
+tagets : B-LOC O O O O O O O O 
+score :  65.32449340820312
+predict : B-TIME O O B-ORG O O O O O O O B-ORG O O O O O O O O O B-ORG O O O O O O O B-ORG O O O O B-LOC O O O O O O O O O O O 
+tagets : B-TIME O O B-ORG O O O O O O O B-ORG O O B-TIME O O O B-TIME O O B-ORG O O O O O O O B-ORG O O O O B-LOC O O O O O O O O O O O 
+score :  453.1501159667969
+predict : O O O O O B-TIME O B-ORG O O O 
+tagets : O O O O O B-TIME O B-ORG O O O 
+score :  110.37293243408203
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  167.28587341308594
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  283.27923583984375
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  227.2867889404297
+predict : B-TIME I-TIME I-TIME B-PER O O O O O O O B-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME B-PER O O O O O O O B-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O 
+score :  323.1429138183594
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O 
+score :  307.8216857910156
+predict : O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG I-ORG O O O O B-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O 
+score :  323.71429443359375
+predict : O B-ORG O O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O 
+score :  108.94995880126953
+predict : O B-LOC O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O B-PER O O O O O O 
+score :  190.97926330566406
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  410.3451843261719
+predict : O O O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O 
+tagets : B-LOC O O O B-PER O O O B-LOC O O O O O O O B-LOC O O O O O O O O O 
+score :  283.8575439453125
+predict : O O O O O O O O O O O O O O B-TIME I-TIME O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O B-TIME I-TIME O O O O O O O O O O O 
+score :  253.78399658203125
+predict : O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O 
+score :  289.57647705078125
+predict : O O B-PER I-PER O O O O O O O B-LOC O O O O O 
+tagets : O O O O O O O O O O O B-LOC O B-LOC O O O 
+score :  162.25173950195312
+predict : O O O O O O O O O O O O O O O O O O B-LOC O O O 
+tagets : O O O O O O O O O O O O O O O O O O B-LOC O O O 
+score :  258.205322265625
+predict : B-CRIME I-CRIME I-ORG I-ORG I-ORG O B-TIME I-TIME I-TIME I-TIME O O B-LOC O O O O O O O O O O O O O O B-PER I-PER I-PER B-TIME I-TIME O O O O O O B-TIME O O O O O O O O 
+tagets : O O O B-ROLE O O B-TIME I-TIME I-TIME I-TIME O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O B-LOC O O O B-TIME O O O O O O B-ROLE I-ROLE O O O O O O O 
+score :  427.2713623046875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  248.64944458007812
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  110.4589614868164
+predict : O 
+tagets : O 
+score :  9.832029342651367
+predict : O O O O O B-ORG O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O B-ORG O B-TIME O O O O O O O O O O O O O O O O 
+score :  251.45401000976562
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  17.5853328704834
+predict : B-LOC B-LOC I-LOC O O O O B-TIME O O O O O B-ROLE B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG I-ORG O O O O O O O O O O B-ROLE B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  271.4767761230469
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  22.92979621887207
+predict : B-LOC O O O O O O O O B-LOC O O O O O O O O O 
+tagets : B-LOC O O O O O O O O B-LOC O O O O O O O O O 
+score :  190.148193359375
+predict : B-PER O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O B-LOC O O O O O O O O O O O O O O O O O B-ORG O O B-ORG O O O 
+score :  323.81011962890625
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  182.83248901367188
+predict : B-PER O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG B-ROLE O O O O B-ORG B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O 
+score :  756.461669921875
+predict : O O O O O O B-LOC O O O O O O O O O O O O O O O 
+tagets : O O O O O O B-LOC O O O O O O O O O O O O O O O 
+score :  255.79010009765625
+predict : O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O O O O B-PER I-PER O O O O O O O O O O O 
+score :  231.80255126953125
+predict : O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O 
+score :  143.33697509765625
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  170.17962646484375
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  244.09457397460938
+predict : O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O 
+tagets : O O B-LOC O O O B-PER O O B-LOC O O O B-LOC O O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O 
+score :  403.813720703125
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  17.606531143188477
+predict : O O O O O O O O O 
+tagets : O O O O O O O O O 
+score :  91.5081558227539
+predict : O B-LOC O O O O O O O B-LOC O O O O O O 
+tagets : O O O O O B-PER I-PER O B-LOC B-LOC O O O O O O 
+score :  147.61322021484375
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  109.79706573486328
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  270.7892150878906
+predict : B-PER I-PER O O O O O O O O O O O O O O O 
+tagets : B-ORG O B-PER I-PER O O O O O O O O O O O O O 
+score :  173.23870849609375
+predict : O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O O O O O O O O O O O B-TIME O O O 
+tagets : O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O O O O O O O O O O O B-TIME O O O 
+score :  245.72219848632812
+predict : O B-PER O O O B-ROLE I-ROLE O O O O O O O O O 
+tagets : O B-PER O O O O O O O O O O O O O O 
+score :  162.46922302246094
+predict : B-ORG I-ORG O O O O O O O O O B-ROLE B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG O O O O O O O O O B-ROLE B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  229.8040008544922
+predict : O O O O O O O O O O O O B-ORG I-ORG O O O O O O B-TIME I-TIME I-TIME O B-LOC O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O B-ORG O O O O B-TIME I-TIME I-TIME O B-LOC O O O O O O O O 
+score :  337.3672180175781
+predict : O O O O B-LOC B-LOC O O O O O B-LOC B-LOC O O O O O O O O O 
+tagets : O O O O B-LOC I-LOC O O O O O B-LOC I-LOC O O O O O O O O O 
+score :  220.151123046875
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O B-PER O 
+score :  112.61705780029297
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  61.8630256652832
+predict : O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  357.4878234863281
+predict : O 
+tagets : O 
+score :  5.254940032958984
+predict : B-TIME I-TIME O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-PER O O O O 
+score :  368.7629699707031
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  360.5583190917969
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  24.494964599609375
+predict : O B-ROLE O B-ORG I-ORG O B-LOC O O O O O O O O O O O O O O O 
+tagets : O O O B-ORG I-ORG O B-LOC O O O O O B-ORG O B-ORG O O O O O O O 
+score :  204.31500244140625
+predict : O B-PER I-PER O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-PER O O O O O O O O O O O O O O O O O O O 
+score :  225.22434997558594
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  202.91224670410156
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  202.75633239746094
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  162.83132934570312
+predict : O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  430.2027282714844
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  128.84715270996094
+predict : B-ORG I-ORG O B-ROLE B-PER O O O O B-ROLE B-PER I-PER O O O O 
+tagets : B-ORG I-ORG O B-ROLE B-PER O O O O B-ROLE B-PER I-PER O O O O 
+score :  151.1861572265625
+predict : B-ORG B-ROLE O O O B-ROLE O B-ORG O O O O O O O O O B-TIME I-TIME O O O O O 
+tagets : B-ROLE B-PER O O O B-ROLE O O O O O O O O O O O B-TIME I-TIME I-TIME I-TIME O O O 
+score :  211.66339111328125
+predict : O O O B-LOC O O O B-TIME I-TIME O O O O O O O O O O B-ORG B-ROLE O 
+tagets : B-PER O O B-LOC B-LOC O O B-TIME I-TIME O B-ORG O B-TIME O B-ORG O B-TIME I-TIME O B-ORG B-ROLE O 
+score :  187.9243927001953
+predict : O O B-ORG O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O O O O O O O O O B-PER O B-PER O B-PER O O B-ORG O O O O O O O O O O O O 
+tagets : O O B-ORG O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O O O O O O O O O B-PER O B-PER O B-PER O O B-ORG O O O O O B-ORG O O O O O O 
+score :  448.76910400390625
+predict : O O O O O O O O O O O B-TIME I-TIME O O O O 
+tagets : B-PER O O O O O O O O B-PER O B-TIME I-TIME O O O O 
+score :  170.7792205810547
+predict : B-ORG I-ORG O O O O O O O O O O O B-TIME I-TIME O O O O O O 
+tagets : B-ORG B-TIME O O O O O O O O O O O B-TIME I-TIME O O O O O O 
+score :  211.9492645263672
+predict : O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  271.52490234375
+predict : B-TIME I-TIME I-TIME O B-LOC B-LOC B-LOC O O O B-ORG O O O B-ORG I-ORG O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME O B-LOC B-LOC B-LOC O O O B-ORG O O O O O O O O O O O B-ORG I-ORG O O O O O B-LOC O O O O O O O O O O O O O 
+score :  394.5495910644531
+predict : O O O O O O O O O O O 
+tagets : O O B-PER O O O O O O O O 
+score :  111.24844360351562
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  12.633879661560059
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  184.4440460205078
+predict : B-LOC O O O O O B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC O B-ROLE O O O O O B-ROLE O O O O O O O O O O O O O O O O O O B-PER O O O O B-PER O O 
+score :  382.0487976074219
+predict : O 
+tagets : B-CRIME 
+score :  11.25638198852539
+predict : O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O 
+tagets : O O O O B-ROLE O O O O O O O O O O O O O O O B-ORG O O O O O 
+score :  284.94329833984375
+predict : O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O B-PER B-ROLE O O O O B-PER O O O O O O B-PER O O B-PER O O 
+tagets : O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O B-PER O O O O O O O O O O O O B-PER O O B-PER O O 
+score :  512.6949462890625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  38.77400588989258
+predict : O O O O O B-LOC O O O O O O O O O O 
+tagets : O O O O O B-LOC O O O O O O O O O O 
+score :  154.79318237304688
+predict : B-CRIME 
+tagets : B-CRIME 
+score :  5.123055458068848
+predict : O B-ORG I-ORG B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O B-LOC O O O O O O B-TIME O O O O O O O O O O 
+tagets : O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O O B-PER I-PER O B-PER I-PER O O O O O O O B-ROLE O O O O O O O O O B-TIME O O O O O O O O O O 
+score :  402.3474426269531
+predict : O O O O O O O O O O O O O O O O B-ROLE O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O O 
+score :  227.43359375
+predict : O O O O B-PER O O O O O O O O O O O O O O B-ROLE O O B-LOC O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  425.3412780761719
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  306.09979248046875
+predict : O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  581.642578125
+predict : O B-TIME I-TIME O O O O O O O B-TIME I-TIME O B-LOC O O O O 
+tagets : O B-TIME I-TIME O O O B-ORG I-ORG I-ORG O B-TIME I-TIME O B-LOC O B-LOC O O 
+score :  156.1240692138672
+predict : O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  448.3982849121094
+predict : B-PER I-PER O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC I-LOC I-LOC I-LOC O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O 
+score :  266.544189453125
+predict : B-TIME O O O O O O O O O O O O B-LOC O O O O O O O O O O O 
+tagets : B-TIME O O O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O O 
+score :  260.1087951660156
+predict : B-TIME I-TIME O O O B-PER I-PER I-PER O 
+tagets : B-LOC O O O O O O O O 
+score :  63.00883483886719
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW 
+score :  32.72321319580078
+predict : B-TIME O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O 
+tagets : B-TIME I-TIME O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O 
+score :  294.0419921875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O 
+score :  597.9265747070312
+predict : O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  311.5761413574219
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  935.5567016601562
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  95.85562133789062
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  54.18442153930664
+predict : O O O O B-ORG O O O O O O O O O O O O 
+tagets : O O O O B-ORG O O O O O O O O O O O O 
+score :  196.24465942382812
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  249.43836975097656
+predict : O O O B-LOC O O O O O O O O O O O O O O B-ROLE O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O B-ROLE O B-ROLE O O O O O O O O 
+score :  255.05763244628906
+predict : O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  442.6028137207031
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  139.76698303222656
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  139.7537841796875
+predict : B-ORG O O O O O O O O O B-ROLE I-ROLE I-ROLE I-ROLE I-ROLE I-ROLE O O O O O 
+tagets : B-ORG O O O O O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O 
+score :  209.5680694580078
+predict : B-LOC O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O B-LOC O O O O O O O O O O O O 
+score :  179.3772430419922
+predict : B-LOC B-ROLE B-PER O B-ORG B-ROLE O O B-LOC O O O 
+tagets : B-LOC B-ROLE B-PER O B-ORG O O O B-PER O O O 
+score :  113.33238983154297
+predict : O O O B-LOC I-LOC O O O B-ROLE I-ROLE O O O O O O O O O O O O O 
+tagets : O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O 
+score :  212.4109649658203
+predict : B-ORG I-ORG I-ORG O O O O O O O O O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O B-ORG O O B-ORG O O B-ORG O O O O O O 
+tagets : B-ORG I-ORG I-ORG O O O O B-TIME O O O O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O B-ORG O O B-ORG O O O O O O O O O 
+score :  347.9831237792969
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  97.54400634765625
+predict : B-PER I-PER B-TIME I-TIME O B-TIME I-TIME O O O O O O O O O O O O O 
+tagets : B-LOC O B-TIME I-TIME O O B-LOC O O B-LOC O O O O O B-LOC O O O O 
+score :  197.62901306152344
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-PER O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O 
+score :  356.232666015625
+predict : O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O 
+score :  167.2444305419922
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O B-TIME I-TIME O O O O O O 
+score :  151.7156524658203
+predict : O O O O O O B-ORG I-ORG O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O B-ORG O B-PER O O O O O 
+score :  198.12879943847656
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  130.6088409423828
+predict : O O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O O B-TIME O B-TIME O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O 
+score :  308.7583923339844
+predict : O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  441.71978759765625
+predict : O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O 
+tagets : O O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG I-ORG B-ROLE B-PER 
+score :  76.35081481933594
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  175.48764038085938
+predict : O O O B-ROLE O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  212.3403778076172
+predict : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O O B-TIME O O O O 
+tagets : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O O B-TIME O O O O 
+score :  486.10467529296875
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O B-ROLE O O O O O O 
+score :  195.78977966308594
+predict : B-PER I-PER I-PER O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O 
+score :  180.282470703125
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  101.6868896484375
+predict : O B-LOC B-LOC O O B-LOC O O O O O O O O O O B-LOC O B-LOC O O O O O 
+tagets : O B-LOC B-PER O O B-LOC O O O O O O O O O O B-LOC O B-LOC O O O O O 
+score :  226.6160125732422
+predict : B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O 
+tagets : B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O 
+score :  351.27667236328125
+predict : O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME B-LOC O O O O O O B-ROLE I-ROLE O O O B-ROLE O O O O B-TIME I-TIME I-TIME I-TIME O O O O O O B-TIME O O O O O O B-LOC O O O O 
+tagets : O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME B-LOC O O O O O O O O O O O O O O O O B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O B-LOC O O O O 
+score :  465.5335388183594
+predict : O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O 
+score :  296.7080078125
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  253.87921142578125
+predict : O O O B-LOC O O O O O O O B-PER O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O 
+tagets : O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O 
+score :  508.84197998046875
+predict : B-ORG I-ORG O B-ROLE B-PER I-PER O O O O B-ROLE B-PER I-PER O B-PER I-PER O O O O 
+tagets : B-ORG I-ORG O B-ROLE B-PER I-PER O O O O B-ROLE B-PER I-PER O B-PER I-PER O O O O 
+score :  182.61375427246094
+predict : O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  496.2931823730469
+predict : B-ORG B-ROLE I-ROLE O B-ROLE O B-ORG O B-PER B-ROLE B-TIME O O O O B-ORG I-ORG O B-LOC O O O O O 
+tagets : B-ORG B-ROLE I-ROLE O B-ROLE O B-ORG O B-PER B-ROLE B-TIME O O O O B-ORG I-ORG O B-PER I-PER I-PER I-PER I-PER O 
+score :  186.99008178710938
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  259.80712890625
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW 
+score :  60.99220275878906
+predict : O O O O B-LOC O B-LOC O O O O 
+tagets : O O O O B-LOC B-TIME I-TIME O O O O 
+score :  116.7185287475586
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  35.573604583740234
+predict : B-ORG O O O O O O O O O O B-ORG O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O B-LOC B-ORG I-ORG O B-ROLE B-PER I-PER O O O O B-ROLE B-PER I-PER O B-ROLE O O O O O 
+tagets : B-ORG O B-TIME O O O O O O O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O B-ORG I-ORG I-ORG O B-ROLE B-PER I-PER O O O O B-ROLE B-PER I-PER O B-ROLE B-PER O O O O 
+score :  421.2150573730469
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  42.236053466796875
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O 
+score :  220.209716796875
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  61.942562103271484
+predict : B-LOC O O O B-TIME O O O O O O O O O 
+tagets : B-LOC O O O B-TIME O O O O O O O O O 
+score :  136.71688842773438
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  95.91036224365234
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  19.245038986206055
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  36.67495346069336
+predict : B-TIME I-TIME O O O O O B-LOC 
+tagets : B-TIME I-TIME O O B-LOC I-LOC I-LOC O 
+score :  69.9924545288086
+predict : O O O O O O O O B-ORG O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  168.0515899658203
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-PER O O O O O O O O O O O O O O O O O O 
+score :  241.14508056640625
+predict : O 
+tagets : B-CRIME 
+score :  6.927443504333496
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  188.71253967285156
+predict : O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O 
+tagets : O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O 
+score :  270.7646789550781
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  110.63248443603516
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  274.48236083984375
+predict : O O O O O B-ORG B-ROLE B-PER I-PER I-PER I-PER O O O O O O O O B-LOC O O O O O O O 
+tagets : O O O O O B-ORG O B-PER I-PER I-PER I-PER O O O O O O O O B-ORG O B-PER I-PER O O O O 
+score :  287.8222351074219
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  388.9780578613281
+predict : O 
+tagets : O 
+score :  9.40572452545166
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  99.61241149902344
+predict : O O O O O O O O O B-ORG I-ORG O O O B-ROLE B-PER O O O 
+tagets : O O O O O O O O O O O O O O O B-PER O O O 
+score :  187.65122985839844
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  228.68368530273438
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O 
+score :  278.64935302734375
+predict : O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O 
+tagets : O B-PER O B-LOC O O O O O B-LOC O O O O O O O O O O O O B-LOC O B-LOC O O O O O 
+score :  274.0888366699219
+predict : O B-LOC I-LOC O O O O B-LOC O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O O B-PER O B-PER O O B-ORG I-ORG I-ORG I-ORG O B-PER I-PER O O O B-ORG I-ORG O O O O B-LOC O B-TIME I-TIME O O O O B-TIME O B-ORG O O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG O O B-LOC O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O O B-PER O B-PER O O B-ORG I-ORG I-ORG I-ORG B-ROLE B-PER B-ORG B-ROLE O O B-ORG I-ORG I-ORG I-ORG O O B-LOC O B-TIME I-TIME O O O O B-TIME O B-LOC O O O O O B-LOC O O 
+score :  492.730224609375
+predict : O O O O O O O O O O O O 
+tagets : O O O O B-LOC O O O O O O O 
+score :  121.43579864501953
+predict : O O B-LOC O O B-ORG I-ORG O O O O B-ORG I-ORG I-ORG I-ORG O B-PER O O O O 
+tagets : B-TIME I-TIME I-TIME O O B-ORG I-ORG O O O O B-ORG I-ORG I-ORG I-ORG O B-PER O O B-ROLE O 
+score :  175.35581970214844
+predict : O O O O B-TIME I-TIME O B-ORG O O O O O B-ORG I-ORG O O O O O O O O B-ROLE B-PER O O O O O 
+tagets : O O O O B-TIME I-TIME O O O B-PER I-PER O O B-ORG I-ORG O B-ROLE O O O O O B-ORG I-ORG B-ROLE O B-ORG I-ORG B-ROLE O 
+score :  281.995849609375
+predict : O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O O O O O 
+tagets : O O O B-ROLE B-PER I-PER O B-CRIME I-CRIME I-CRIME O O O O O O 
+score :  159.632568359375
+predict : O O O O O O O B-LOC O O O 
+tagets : O O O O O O O B-LOC O O O 
+score :  112.37120056152344
+predict : O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O O O B-LOC I-LOC O O O O O O O O O O B-LOC O O O O O O O O B-TIME O O O O 
+score :  342.8856506347656
+predict : O O O O B-LOC O O O O O O O O O O O O O 
+tagets : O O O O B-LOC O O O O O O O O O O O O O 
+score :  193.81369018554688
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-PER O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  439.16741943359375
+predict : O O O O O O O O O B-LOC O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O B-LOC O O O O O O O O O O O O O O 
+score :  260.1903381347656
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  304.831298828125
+predict : O O O O O O O B-LOC O B-LOC O O O O O O 
+tagets : O B-TIME I-TIME O O O O B-LOC O O O O O O O O 
+score :  158.017333984375
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  149.50001525878906
+predict : B-LOC B-TIME I-TIME O O O O O O O O O O O O O O 
+tagets : O B-TIME I-TIME O O O O O O O O O O O O O O 
+score :  144.3341827392578
+predict : O O O O B-ORG I-ORG O O O O O O O O O O O O O O O 
+tagets : O O O O B-ORG I-ORG O O O O O O O O B-PER O O O O O O 
+score :  195.64755249023438
+predict : B-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O 
+tagets : O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O 
+score :  132.2939910888672
+predict : O O O O O O O O O O 
+tagets : O O O O O O O O O O 
+score :  105.87337493896484
+predict : O O B-PER O O O O O O O O O O O O O O O O O O 
+tagets : O O B-PER O O O O O O O O O O O O O O O O O O 
+score :  262.4463195800781
+predict : O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O B-ORG O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  330.58575439453125
+predict : O O O O O O O B-ROLE I-ROLE O O O O O B-ROLE O O 
+tagets : O O O O O O O B-ROLE I-ROLE O O O O O B-ROLE O O 
+score :  179.2418212890625
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O 
+score :  289.7381286621094
+predict : O O O O O O O O O B-LOC O O B-PER O O O O O 
+tagets : O O O O O O O O O B-PER O O B-PER O O O O O 
+score :  190.4331817626953
+predict : O O O O O O B-ORG I-ORG O O O O O O O O O O O O O B-ROLE O O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-ORG O O O O B-ROLE I-ROLE B-PER O O O B-LOC O O B-ROLE O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O B-ORG O O O O O O 
+score :  461.4257507324219
+predict : B-TIME I-TIME O O O O O O O O O O 
+tagets : O B-ROLE O O O O O B-TIME O O O O 
+score :  108.93619537353516
+predict : O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  472.0979919433594
+predict : O O O O O O O O O B-LOC O O O O O O O O 
+tagets : O O O B-PER O O O O O B-LOC O O O O O O O O 
+score :  205.17747497558594
+predict : O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O 
+tagets : O O O O O O O O O B-LOC O O O O O O O O O O O O 
+score :  218.92544555664062
+predict : O O O O O B-TIME O O O O O O O O O O 
+tagets : O O O O O B-TIME O O O O O O O O O O 
+score :  156.9809112548828
+predict : O O O B-ROLE O O B-ROLE O O O O O O O O O O O O B-LOC O B-LOC O O O O O O O O 
+tagets : O O O B-ROLE O O B-ROLE O O O O O O O O O O O O B-ROLE O O O O O O O O O O 
+score :  283.7756042480469
+predict : O O O O O O O B-ORG O O O O O O O O O O O O O 
+tagets : O O O O O O O B-ORG I-ORG O O O O O O O O O O O O 
+score :  211.7351531982422
+predict : B-ORG I-ORG O O O O O O O O O O O B-ROLE B-PER I-PER O B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG O O O O O O O O O O O B-ROLE B-PER I-PER O B-PER I-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  274.0205383300781
+predict : O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  323.3390197753906
+predict : B-LOC O B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O B-ROLE O O O O B-TIME I-TIME O O O O O O O O O O O O O 
+tagets : B-ORG I-ORG B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O B-TIME I-TIME O O O O O O O O O B-TIME I-TIME O O O O O O O O O O O O O 
+score :  446.73602294921875
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  192.27496337890625
+predict : O O B-TIME I-TIME I-TIME I-TIME O B-ORG O O O B-ORG I-ORG O O O O O O O O 
+tagets : O O B-TIME I-TIME I-TIME I-TIME O B-ORG O O O O O O O O O O O O O 
+score :  196.73959350585938
+predict : B-CRIME 
+tagets : B-CRIME 
+score :  4.791262149810791
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  208.51478576660156
+predict : O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O 
+score :  289.3738708496094
+predict : O O O O O O B-TIME O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O B-TIME I-TIME I-TIME O O O O B-LOC O B-ORG I-ORG O O O O O O O O O 
+score :  275.2940979003906
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  415.54205322265625
+predict : O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O B-ORG O O O O O O O O O O O O O B-ORG O O B-LOC O O O O O O O O B-LOC O O O O O O O O O 
+score :  378.97003173828125
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  71.34208679199219
+predict : O O O O O O O B-LOC O O O O O O B-LOC B-ROLE O O B-LOC O O O O O O 
+tagets : O O O O O O O B-LOC O O O O O O B-LOC B-ROLE O O O O O O O O O 
+score :  239.4512481689453
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  127.18895721435547
+predict : O O O B-ROLE B-PER O B-CRIME I-CRIME I-CRIME O O O O O O 
+tagets : O O O B-ROLE B-PER O B-CRIME I-CRIME I-CRIME O O O B-TIME I-TIME O 
+score :  155.6858673095703
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  32.46605682373047
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  43.3964958190918
+predict : B-TIME O O O O O O O B-TIME I-TIME O O O O O O B-ORG O O O O O O 
+tagets : B-PER O O O O B-LOC O O B-TIME I-TIME O O O O B-ORG O B-ORG O O O B-ROLE O O 
+score :  206.79173278808594
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O 
+score :  297.21685791015625
+predict : B-TIME I-TIME O B-LOC B-LOC B-ROLE O O O O O O O O B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-LOC O B-ROLE I-ROLE B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  373.9768981933594
+predict : O O O O B-PER O B-TIME I-TIME B-PER I-PER O O O O O O 
+tagets : O O O O B-LOC O B-TIME I-TIME O B-ORG O O O O O O 
+score :  124.51348876953125
+predict : O B-LOC O B-ORG I-ORG O O O O B-TIME I-TIME I-TIME I-TIME O B-LOC O B-ORG I-ORG I-ORG B-ROLE B-PER I-PER O O O O B-ROLE O B-LOC O O B-ORG O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG O B-LOC O B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG I-ORG I-ORG B-ROLE B-PER I-PER I-PER I-PER O B-ROLE I-ROLE O B-ORG I-ORG I-ORG I-ORG O O O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-LOC O O O O O O 
+score :  424.3191223144531
+predict : B-LOC O B-LOC O O O O O O O O O O O O B-LOC B-ROLE O O O O O O O O O B-LOC O O 
+tagets : B-LOC O B-LOC O O O O O O O B-LOC O O O O B-LOC B-ROLE O O O O O O O O O B-LOC O O 
+score :  303.8190612792969
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O 
+score :  448.3721923828125
+predict : O O O O O B-TIME O O O O O O 
+tagets : O O O O O B-TIME O B-ROLE O O O O 
+score :  119.09567260742188
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  296.97021484375
+predict : B-LOC O O O O O O O O O O 
+tagets : B-LOC O O O O O O O O O O 
+score :  109.85526275634766
+predict : O B-LOC O O O O O O O O O B-LOC O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O B-LOC O O O O O O O O 
+score :  214.66200256347656
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  12.410395622253418
+predict : B-PER O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O 
+score :  212.67752075195312
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  218.2535858154297
+predict : B-ROLE O B-LOC O O O O O O O O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O O O O O O O O O B-TIME O O O O 
+score :  229.1845245361328
+predict : B-TIME O O O O O O O O O B-ORG O O O B-ORG O B-ORG O B-ORG O O O O O B-ORG I-ORG O 
+tagets : B-TIME O O O O O O O O O B-ORG O O O O O B-ORG O B-ORG O O O O O B-ORG I-ORG O 
+score :  244.41693115234375
+predict : O O O O B-PER O O O O O O 
+tagets : B-PER O O O O O O O O O O 
+score :  122.08123016357422
+predict : O B-LOC O O O B-LOC O O O B-LOC O O O 
+tagets : O B-LOC O O O B-LOC O O O B-LOC O O O 
+score :  136.54104614257812
+predict : B-TIME I-TIME O B-LOC O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-LOC O O O O O O O O O O O O O O O O O O O O 
+score :  253.42318725585938
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  302.328125
+predict : O O O O O O O O O O O O O O O O O B-ROLE O 
+tagets : O O O O O O O O O O O O O O O O O B-ROLE O 
+score :  227.66232299804688
+predict : O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O 
+tagets : O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O 
+score :  292.447998046875
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  192.5276336669922
+predict : O 
+tagets : O 
+score :  11.461796760559082
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  106.79584503173828
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  190.67837524414062
+predict : O O O B-LOC O O O O O B-ORG I-ORG O O O O O O O O 
+tagets : O O O B-LOC O O O O O O O O O O O O O O O 
+score :  185.83253479003906
+predict : O O B-ORG O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O 
+tagets : B-ORG O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  467.9442138671875
+predict : O O O O O B-LOC O O O O O O O O O O 
+tagets : B-ORG I-ORG O O O B-LOC O O O O O O O O O O 
+score :  150.55050659179688
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  151.18014526367188
+predict : O O O O O B-LOC O O B-LOC O O O O O B-TIME I-TIME B-LOC O O O O O O O O O O O 
+tagets : O O O O O B-LOC O O B-LOC O O O O O B-TIME I-TIME B-LOC O O O O O O O O O O O 
+score :  290.3060302734375
+predict : B-ORG O O O O O O O O O O O O B-LOC O O O O O O O 
+tagets : O O B-LOC O O O O B-LOC O O O O O B-LOC O O O O O O O 
+score :  182.62879943847656
+predict : B-LOC O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC O O O O B-ROLE B-PER O O B-ROLE O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  436.562744140625
+predict : O O O O O O O B-LOC O O O O 
+tagets : O O O O O O O B-LOC O O O O 
+score :  119.08056640625
+predict : O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O B-PER O O B-ORG O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-ORG I-ORG I-ORG O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-LOC O B-LOC O O O O O O O O O O O O 
+score :  626.07568359375
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME B-CRIME I-CRIME I-CRIME B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  151.42724609375
+predict : O B-LOC O O O B-LOC O O O O O O O O O B-LOC O O O O O O O B-TIME I-TIME O O O O O O O O O O O B-ORG O B-ORG I-ORG O B-ORG I-ORG O B-LOC O O O B-LOC O O 
+tagets : O B-LOC O O O B-LOC O O O O O O O O O B-LOC O O O O O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  498.8961181640625
+predict : O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  285.57330322265625
+predict : O O O O O O O O B-TIME O O B-TIME O O O O B-TIME I-TIME I-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O 
+tagets : O O O O O O O O B-TIME O O B-TIME O O O O O B-TIME I-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O 
+score :  339.795166015625
+predict : B-LOC O O O O O O O O 
+tagets : B-LOC O O O O O O O O 
+score :  89.42666625976562
+predict : O O O O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O 
+tagets : O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O 
+score :  499.1786193847656
+predict : O O O O O O O O O B-LOC O O O O O O O O O O O O O O B-LOC O O 
+tagets : O O O O O B-ROLE O O O B-LOC O O O O O O O O O O O O O O B-LOC O O 
+score :  290.74200439453125
+predict : O O O O O O O O O B-ORG I-ORG 
+tagets : O O O O O O O O O O O 
+score :  94.03983306884766
+predict : O B-LOC O O O O O O O B-LOC O O B-ORG I-ORG I-ORG B-ROLE I-ROLE O O O O B-ORG O O O O O B-ROLE O O O O O O O B-LOC B-ROLE I-ROLE O O O B-ROLE I-ROLE I-ROLE O O O O O O B-ORG I-ORG O O O O O O O O 
+tagets : O B-LOC O O O O O O B-ORG I-ORG B-ROLE O B-LOC B-ORG I-ORG B-ROLE I-ROLE O B-LOC B-ROLE O B-LOC I-LOC O B-ROLE O O B-PER O B-ORG I-ORG B-ROLE O B-ORG I-ORG I-ORG B-ROLE I-ROLE O B-ORG I-ORG I-ORG B-ROLE I-ROLE O O O O O O O O O O O O O O O O 
+score :  529.121826171875
+predict : O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O 
+score :  263.6532287597656
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  407.2783508300781
+predict : O B-LOC B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O B-LOC O O O B-TIME I-TIME O O O O O O O O O O O O O O 
+tagets : O B-LOC B-TIME I-TIME I-TIME I-TIME O B-ROLE B-PER O O B-TIME I-TIME O O O O O O O B-LOC O O O B-TIME I-TIME O O B-LOC O O O O O O O O O O O 
+score :  400.04541015625
+predict : O O O O O O O O O 
+tagets : B-LOC O O O O O O O O 
+score :  90.65021514892578
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O O O O O O O O O O O O O O 
+score :  234.5903778076172
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  401.3759765625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  103.6821517944336
+predict : O O B-PER O O B-ROLE O O O O O O O O O O B-ORG O O O 
+tagets : O O B-PER O O O O O O O O O O O O B-ORG I-ORG O O O 
+score :  168.83474731445312
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  125.81261444091797
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  337.33935546875
+predict : O O O O O O O O O B-TIME I-TIME I-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O B-TIME I-TIME I-TIME O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O 
+score :  251.68722534179688
+predict : B-ORG O O O B-LOC O O O O O O O O 
+tagets : B-ORG O O O O O B-ORG I-ORG O O O O O 
+score :  130.8551788330078
+predict : O O O O O O O O O 
+tagets : O O O O O O O O O 
+score :  94.8022232055664
+predict : O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O B-LOC O B-PER I-PER O O O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O B-ORG B-ROLE B-PER I-PER O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-PER I-PER O O O O O O O 
+score :  576.2182006835938
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  319.5065612792969
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  16.040958404541016
+predict : O B-ORG B-ROLE I-ROLE I-ROLE O O O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O 
+tagets : B-ORG I-ORG O O B-PER O O O O O O O O O O O O O O O 
+score :  172.4748992919922
+predict : O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O B-ROLE O O O O O O O O O O O O 
+score :  245.51806640625
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  26.981584548950195
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  97.27464294433594
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  135.45115661621094
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  181.5025177001953
+predict : O B-LOC B-TIME I-TIME I-TIME I-TIME O B-ROLE B-PER O O B-ORG B-ROLE B-PER B-TIME O B-LOC O O O O B-LOC B-ROLE B-PER O 
+tagets : O B-LOC B-ROLE I-ROLE I-ROLE I-ROLE O O B-PER O O B-ORG B-TIME B-PER B-TIME O B-LOC O O O O B-LOC B-ROLE B-PER O 
+score :  215.82518005371094
+predict : B-LOC O O B-ROLE O O O B-ORG O O O O O O O O O O O O O O O 
+tagets : B-LOC O B-ORG O O O O O O O O O O O O O O O O O O O O 
+score :  251.32945251464844
+predict : O B-ORG I-ORG I-ORG I-ORG O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG O O O O O 
+score :  98.24581146240234
+predict : O O O O O O O O O O O O 
+tagets : B-PER O O B-ROLE O O O O O O O O 
+score :  143.15171813964844
+predict : O B-LOC O B-LOC O O O B-ORG I-ORG O O O O O O O O O O O O O O O 
+tagets : O O O B-LOC B-LOC O O O O O O O O O O O O O O O O O O O 
+score :  199.8290252685547
+predict : B-ORG I-ORG I-ORG O O O O B-TIME O O O O O B-ROLE B-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG I-ORG O O O O O O O O O O B-ROLE B-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  238.79971313476562
+predict : B-TIME I-TIME I-TIME I-TIME O B-PER I-PER O O O O O O O O O O O O O O O B-LOC O 
+tagets : B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O 
+score :  229.10394287109375
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  211.48782348632812
+predict : B-TIME I-TIME I-TIME O O O O B-LOC O O B-LOC O O O O O O O O B-PER O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME I-TIME O B-LOC B-LOC I-LOC O B-LOC O O O O O O O O O O O O O O O O O O O 
+score :  267.4150695800781
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O 
+score :  347.1130065917969
+predict : B-ORG O O O O O O O O O O B-LOC O O O O O O O B-ORG I-ORG O O O O O O O O 
+tagets : B-PER I-PER O O O O O O O O O B-LOC B-LOC B-LOC I-LOC O B-ROLE O O B-PER I-PER O O O O O O O O 
+score :  309.6792907714844
+predict : O O O O O O O O B-LOC O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  189.0824432373047
+predict : O O O O O O O O B-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O O O 
+score :  111.8487548828125
+predict : B-ORG I-ORG O O B-ROLE B-PER O B-ORG I-ORG O O O O B-ROLE B-PER I-PER O B-ROLE B-PER O O O O 
+tagets : B-ORG I-ORG O O B-ROLE B-PER O B-PER I-PER O O O O B-ROLE B-PER I-PER O B-ROLE B-PER O O O O 
+score :  196.5593719482422
+predict : B-LOC I-LOC I-LOC O O B-ROLE B-PER O O O O 
+tagets : B-LOC I-LOC I-LOC O B-ROLE I-ROLE B-PER O O O O 
+score :  89.24478912353516
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  392.7609558105469
+predict : O O O B-LOC B-ROLE B-PER O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-LOC O O O O O O O O O O O O O O O O O O O O O O O 
+score :  279.5652770996094
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  49.847774505615234
+predict : B-ROLE O O O O B-PER I-PER O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  95.88041687011719
+predict : B-ORG I-ORG O O O O O O O O 
+tagets : B-LOC I-LOC O O O O O O O O 
+score :  82.63551330566406
+predict : O O O O O O O O O O O O O O O O O O O O O B-PER O B-PER O O O O O O O O 
+tagets : O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O 
+score :  308.8386535644531
+predict : O O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O B-ORG O O O O O B-LOC O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  595.3002319335938
+predict : B-LOC O O O O O B-LOC O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  200.42774963378906
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  172.4270477294922
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O 
+score :  301.41156005859375
+predict : O O O O O O O O O O O B-LOC O O O O O O 
+tagets : O O O O O O O O O O O B-LOC O O O O O O 
+score :  178.10008239746094
+predict : O O O O O O O O O O O O O O B-LOC O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  157.23243713378906
+predict : B-ROLE O O O O O O O O O O O O O O O 
+tagets : B-LOC O O O O O O O O O O O O O O O 
+score :  162.37294006347656
+predict : O O O O B-ROLE O O B-LOC O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O B-ROLE I-ROLE O O O O O O O O O O 
+score :  187.99208068847656
+predict : O O O O O O O O O O O O 
+tagets : B-LOC O O O O O O O O O O O 
+score :  104.2116928100586
+predict : B-TIME I-TIME O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O O O O O O O O O O O O O O O O 
+score :  193.16598510742188
+predict : B-ROLE O B-TIME O B-LOC O O O O O O O O O O O O B-TIME O O O O O O O O B-TIME O O O O O O O O O O O 
+tagets : B-ROLE O B-TIME O B-LOC O O O O O O O O O O O B-TIME I-TIME O O O O O O O O B-TIME I-TIME O O O O O O O O O O 
+score :  400.072021484375
+predict : O O B-LOC O O O O O O O 
+tagets : O O B-LOC O O O O O O O 
+score :  107.68527221679688
+predict : O O O O O O O O O O O O O O O O O O B-LOC O O O O O 
+tagets : O B-TIME I-TIME O B-LOC O O O B-PER O O B-TIME I-TIME O O O O O B-LOC O O O O O 
+score :  247.13470458984375
+predict : O B-LOC O B-LOC O O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG B-ROLE O O O B-LOC I-LOC B-TIME O O O O O O B-ORG I-ORG I-ORG I-ORG B-ROLE O B-ORG O O O O O 
+tagets : O B-PER O B-LOC O O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG B-ROLE O B-ORG B-ROLE B-PER B-ROLE O O O O O O O B-ORG I-ORG I-ORG I-ORG B-ROLE O B-ORG B-ROLE B-PER B-ROLE O O 
+score :  298.31365966796875
+predict : O O O O O O O O O O O O O O O O 
+tagets : B-ORG I-ORG I-ORG O O O O O O O O O O O O O 
+score :  160.7906951904297
+predict : O O B-ORG O O O O O B-ORG I-ORG I-ORG I-ORG I-ORG B-ROLE O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O B-ORG I-ORG I-ORG I-ORG O B-ROLE O O O O B-ORG O O O O O O O O O O O O O O O O 
+score :  340.5998840332031
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-LOC O O O O O O O 
+score :  141.59361267089844
+predict : B-TIME I-TIME O B-LOC B-ROLE B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-LOC B-ROLE B-PER I-PER O O O O B-ROLE O O O B-ROLE I-ROLE O O O O O O O O O O O O 
+score :  281.94805908203125
+predict : O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O O O O 
+score :  111.33321380615234
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  36.3076171875
+predict : O O O O O B-ORG O O O O O O O B-ORG O O O O O O B-ORG O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O B-ORG O O B-ORG O O O B-ORG O B-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O 
+score :  392.3399353027344
+predict : B-ORG I-ORG I-ORG B-ROLE B-PER O B-ORG O O O O B-ROLE B-PER I-PER O O O O O 
+tagets : B-ORG I-ORG I-ORG I-ORG B-PER O B-PER O O O O B-ROLE B-PER I-PER O O O O O 
+score :  177.1013641357422
+predict : B-TIME O O B-LOC O O B-ORG B-LOC I-LOC O O O O B-ORG I-ORG O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-LOC O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O B-ORG O 
+score :  386.18023681640625
+predict : O B-PER O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC B-LOC I-LOC B-LOC O O O O O O O O O O O O O O O O O 
+score :  193.0871124267578
+predict : O B-ORG O B-TIME I-TIME I-TIME I-TIME O B-PER B-ROLE B-PER B-TIME I-TIME O O O O B-LOC O O O O O O B-ORG O B-LOC O O O O O O O O O B-ORG O O O O O O O O O O 
+tagets : O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O B-LOC B-ROLE B-PER B-TIME I-TIME O O O O B-LOC B-ROLE I-ROLE B-PER O O O B-ORG O B-LOC O O B-ORG O O O B-LOC O O B-ORG O O O O O O O O O O 
+score :  426.77203369140625
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O B-LOC O O O O O O O 
+score :  118.55745697021484
+predict : B-TIME I-TIME I-TIME I-TIME O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME I-TIME O O O O B-TIME O O O O O O O O O O O O O 
+score :  544.0298461914062
+predict : O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O B-ORG I-ORG O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  623.2940673828125
+predict : O B-TIME I-TIME I-TIME O O B-LOC O O O O O O O 
+tagets : O B-TIME I-TIME I-TIME O O B-LOC O O O O O O O 
+score :  134.91294860839844
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  179.00025939941406
+predict : B-ORG O O B-ORG O O O O O O O O O 
+tagets : O O O B-ORG O O O O O O O O O 
+score :  146.24758911132812
+predict : I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  31.766572952270508
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O 
+score :  290.8975830078125
+predict : O B-ORG O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  196.63925170898438
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  147.22021484375
+predict : O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O 
+tagets : B-PER O O O O B-ORG I-ORG I-ORG O O O O O O O O O B-LOC O O O O O O O O O O 
+score :  277.5668029785156
+predict : O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O 
+score :  260.3658752441406
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  418.38958740234375
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  153.54818725585938
+predict : O B-LOC O O O O O B-LOC O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O 
+tagets : O B-LOC O O O O O B-LOC O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O 
+score :  341.01092529296875
+predict : O O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O 
+tagets : O O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O 
+score :  258.5166320800781
+predict : B-LOC B-ROLE B-PER O O B-PER O O O O O 
+tagets : B-LOC B-ROLE B-PER I-PER O B-PER O O O O O 
+score :  86.05525970458984
+predict : O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  315.0584411621094
+predict : O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O B-LOC O O O O B-ORG I-ORG O O O O O O O O O O O O 
+score :  291.50469970703125
+predict : O O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O B-ORG I-ORG O O O B-TIME I-TIME O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  1079.969970703125
+predict : O O O O O O O O O O O B-ORG O B-ORG O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  422.3330383300781
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  429.4320983886719
+predict : O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O B-ORG I-ORG I-ORG O B-ORG I-ORG O O O O O O O B-ORG I-ORG I-ORG O O O O O 
+score :  248.8689422607422
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  203.19442749023438
+predict : O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O 
+tagets : O O O O O O O O B-TIME I-TIME O O B-ROLE O O B-ROLE I-ROLE O O O O O O O O O O 
+score :  287.9512023925781
+predict : O B-LOC O B-ORG O O O 
+tagets : O B-LOC O B-ORG O O O 
+score :  71.59295654296875
+predict : I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O 
+score :  212.22703552246094
+predict : O O O B-TIME I-TIME I-TIME I-TIME O O O O O O 
+tagets : O O O B-TIME I-TIME I-TIME I-TIME O B-LOC I-LOC I-LOC O O 
+score :  116.09139251708984
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  152.36517333984375
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  125.500732421875
+predict : O O O O O O B-LOC O B-LOC O O O O B-LOC O 
+tagets : O O O O O O B-LOC O B-LOC O O O O O O 
+score :  159.42555236816406
+predict : O O O O O O B-LOC O O O O O 
+tagets : O O O B-PER O O B-LOC B-ROLE I-ROLE B-PER O O 
+score :  125.77049255371094
+predict : O B-LOC B-LOC O O O O O O O O O O B-LOC O O O 
+tagets : B-LOC I-LOC B-LOC I-LOC B-PER O O O O O O O B-TIME O O O O 
+score :  150.1101837158203
+predict : B-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME 
+score :  13.341769218444824
+predict : O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC O B-LOC I-LOC O O O O B-LOC O O O O O O O O O O O O O O 
+score :  221.81613159179688
+predict : B-LOC O O O B-TIME I-TIME O O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER I-PER O O B-TIME I-TIME O B-ORG I-ORG O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  369.7124328613281
+predict : O O O O O O O O O O O B-LOC O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  158.02024841308594
+predict : B-TIME O B-TIME I-TIME O B-ROLE B-PER O O O O O O O O O O O O O O O O B-ORG O O 
+tagets : B-TIME O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O 
+score :  235.27769470214844
+predict : O O O O B-LOC O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC O O B-LOC O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  354.1394348144531
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  317.2359313964844
+predict : O B-ORG I-ORG I-ORG I-ORG O O O B-TIME I-TIME O O B-TIME I-TIME O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG O O O B-TIME I-TIME O O B-TIME I-TIME O O O O O O O 
+score :  209.98114013671875
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  119.19646453857422
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  96.92835235595703
+predict : O B-PER O O B-LOC O O O B-LOC O O O 
+tagets : B-PER I-PER O O B-LOC O O O B-LOC O O O 
+score :  106.61595153808594
+predict : B-TIME I-TIME B-LOC O B-LOC O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O B-PER O B-LOC O O O O O O O O O O O 
+tagets : B-TIME I-TIME B-ORG I-ORG I-ORG O O O B-LOC O O B-TIME O B-TIME O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  508.84027099609375
+predict : B-ORG I-ORG O B-ROLE O O B-LOC O O O O O O O O O O O O O 
+tagets : O O O B-ROLE O O B-LOC O O O O O O O O O O O O O 
+score :  202.99554443359375
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  28.360122680664062
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-PER O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  350.35797119140625
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  32.26606369018555
+predict : O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME B-ORG O O O O O O O O B-TIME B-ORG O O O O O B-ORG O O O B-ROLE O O 
+score :  280.9768371582031
+predict : O B-LOC B-TIME I-TIME I-TIME I-TIME O O B-ORG O O O O O O O O O O B-PER O O O O B-TIME O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC B-TIME I-TIME I-TIME I-TIME O B-ROLE B-PER O O O B-ROLE I-ROLE B-PER I-PER I-PER O O B-ORG I-ORG I-ORG I-ORG O B-TIME O B-LOC O B-ORG O O O O O O O O O O O O O O O 
+score :  414.94354248046875
+predict : O O O O O B-ORG O 
+tagets : O O O O O O O 
+score :  52.06728744506836
+predict : O O O O B-ORG O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  610.3878173828125
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  666.7005004882812
+predict : O O O B-ROLE B-PER O B-CRIME O O O B-TIME I-TIME O O O O O O 
+tagets : O O O B-ROLE B-PER O B-CRIME O O O B-TIME I-TIME O O O O O O 
+score :  179.71824645996094
+predict : O O O O O B-PER O O B-LOC I-LOC O O O B-TIME I-TIME O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O 
+tagets : O O O O O B-PER O O B-LOC I-LOC O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  417.8652648925781
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  95.08789825439453
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW O B-LAW I-LAW 
+score :  117.05470275878906
+predict : B-LOC O O O O O O O O 
+tagets : B-LOC O O O O O O O O 
+score :  106.4668197631836
+predict : O O O O O O O O O O O O B-LOC O O O 
+tagets : O O O O O O O O O O O O B-LOC O O O 
+score :  176.24085998535156
+predict : B-PER I-PER O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O 
+score :  203.26095581054688
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  25.59003448486328
+predict : O O O B-ORG B-ROLE O O O O O B-LOC O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-ORG B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  321.9741516113281
+predict : B-CRIME I-CRIME I-CRIME I-CRIME O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  234.36264038085938
+predict : O 
+tagets : O 
+score :  8.012696266174316
+predict : B-LOC O O O O O O O O 
+tagets : B-ORG O O O O O O O O 
+score :  106.8573226928711
+predict : O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O B-PER O O O O O B-PER O O O O O O O O O O O O O O O B-PER O O O O O 
+tagets : O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O B-PER O O O O O B-PER O O O O O O O O O O O O O O O B-PER O O O O O 
+score :  1087.3538818359375
+predict : B-PER B-PER O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O 
+tagets : B-LOC O O O O O O O B-LOC O O O O O O O O O O 
+score :  173.4613800048828
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  154.27667236328125
+predict : O O O O O B-ORG I-ORG O O O O O O O O O O B-ORG O O O O O O 
+tagets : O B-PER O O O O O O O O O O O O O B-PER O B-ORG O O O O O O 
+score :  213.84364318847656
+predict : O O O B-LOC O O O O O O 
+tagets : B-PER O O B-LOC O O O B-LOC O O 
+score :  96.5986557006836
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  77.84800720214844
+predict : O O O O O O O B-LOC O B-ORG O O O O O O O O O O O O B-ORG O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-LOC O B-ORG O O O O O O O O O O O O B-ORG O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O 
+score :  574.8489379882812
+predict : O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O B-TIME I-TIME O B-LOC O O O O O O O O 
+score :  189.15284729003906
+predict : B-ORG I-ORG I-ORG O B-ORG B-ROLE B-PER O O O O 
+tagets : B-ORG B-ROLE B-PER O B-LOC B-ROLE B-PER O O O O 
+score :  95.6929931640625
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O 
+score :  381.28204345703125
+predict : O O O O O O O B-LOC O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O 
+score :  215.46080017089844
+predict : B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  305.5603332519531
+predict : O O O O O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O B-TIME O O O O O O 
+score :  170.9807891845703
+predict : B-ROLE O O O O O O O O 
+tagets : B-ROLE O O O O O O O O 
+score :  71.13388061523438
+predict : B-LOC O B-ORG O O O B-ROLE B-PER O O O O O O O 
+tagets : B-LOC O B-ORG O O O B-ROLE O O O O O O O O 
+score :  152.78587341308594
+predict : B-ORG I-ORG O O O B-PER O B-ORG O B-LOC O O O O B-ORG I-ORG O O 
+tagets : B-ORG I-ORG O O O O O B-ORG O O O O O O B-ORG O O O 
+score :  153.36151123046875
+predict : O 
+tagets : O 
+score :  6.88386869430542
+predict : O O O B-PER O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-PER O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O 
+score :  672.0968017578125
+predict : O 
+tagets : O 
+score :  6.576358318328857
+predict : O O O B-ORG I-ORG I-ORG O B-LOC O O O O O O O B-ROLE O O O O B-PER O B-PER O B-PER O O O O O O O O O 
+tagets : O O O B-ORG I-ORG I-ORG O B-ORG I-ORG I-ORG O O O O O O O O O O B-PER O B-PER O B-PER O O O O O O O O O 
+score :  290.9751892089844
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  140.117431640625
+predict : O O O O O O O O O O O B-LOC O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME B-PER O O O O O O O O O O O O O O O O O O O O O O 
+score :  714.0234985351562
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  190.83253479003906
+predict : O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O B-LOC O O O O O O B-TIME I-TIME O O O O O O O O O O 
+score :  386.1073303222656
+predict : O O B-LOC O O O O O 
+tagets : O O B-LOC O O O O O 
+score :  94.71205139160156
+predict : O O O O O O O O O O O O O O B-ROLE O O O O B-ROLE O B-ROLE O O O O O B-LOC O O O O O O O O B-ROLE O O O O O O O O O B-LOC O O O O 
+tagets : O O O O O B-PER O B-PER O O O O O O B-ROLE O O O O B-ROLE O B-ROLE O O O O O B-PER O B-PER O O O O O O B-ROLE O O O O O O O O O O O O O O 
+score :  549.9434204101562
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  399.96685791015625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  42.743873596191406
+predict : O O B-PER O B-ORG I-ORG O O O O O O O O O O O O O O O B-ORG O O O O O O O O O 
+tagets : B-ORG O B-PER O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  306.5743103027344
+predict : B-ORG O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O O O O O O O O O O O B-LOC O O O O O O 
+score :  169.905029296875
+predict : O O O O O O O O B-LOC O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG B-ROLE B-PER I-PER O O O O B-ORG I-ORG I-ORG I-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  489.1266784667969
+predict : B-TIME O O O O O B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME O B-ORG O O O B-TIME O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O 
+score :  341.71923828125
+predict : B-PER I-PER O B-LOC O O O O O O O O O O O O 
+tagets : B-LOC O O B-LOC O O O O O O O O O O O O 
+score :  134.47499084472656
+predict : O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  188.4846954345703
+predict : B-PER O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O 
+tagets : O O B-ORG O O O O O O O O O B-LOC B-LOC O B-LOC I-LOC I-LOC O O O 
+score :  190.2154998779297
+predict : O O O O O B-PER O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  125.01985168457031
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  36.33341598510742
+predict : O O O O O B-ORG O O O O O 
+tagets : B-ORG O O O O B-ORG O O O O O 
+score :  93.71427917480469
+predict : B-ORG O O B-ORG O O O O O O 
+tagets : B-ORG O O O O O O O O O 
+score :  110.8204116821289
+predict : O B-ORG O O B-LOC O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  104.65226745605469
+predict : O O O O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-LOC I-LOC O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  407.33050537109375
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O 
+score :  292.7901306152344
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  335.92572021484375
+predict : O O O O O O O O O O 
+tagets : O O O O O O O O O O 
+score :  109.03186798095703
+predict : B-ORG B-ROLE I-ROLE I-ROLE I-ROLE B-PER O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O 
+tagets : B-ORG B-ROLE I-ROLE B-PER I-PER O O O O O O O O O O O B-LOC O O O O O O O O O O O B-ROLE O O O O O 
+score :  331.6157531738281
+predict : B-ORG I-ORG I-ORG I-ORG I-ORG O O O B-TIME O O O O O B-ROLE B-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O B-ROLE B-PER O B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  238.93161010742188
+predict : B-PER O O O B-LOC O O B-LOC O O O O O O O O 
+tagets : O O O O B-LOC B-LOC I-LOC I-LOC I-LOC B-ORG I-ORG I-ORG I-ORG I-ORG O O 
+score :  140.4366912841797
+predict : B-ORG I-ORG O O O O O O B-LOC O O O O 
+tagets : O B-LOC O O O O O O B-LOC O B-LOC O O 
+score :  128.80703735351562
+predict : B-PER I-PER B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER I-PER B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  289.93756103515625
+predict : O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+score :  265.9200134277344
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  32.86322784423828
+predict : O O B-LOC O O O O O O O O O O O O O O O O O O O O O B-ROLE O O 
+tagets : O O B-LOC O O O O O O O O O O O O O O O B-ROLE B-ROLE O B-ROLE O B-ROLE I-ROLE O O 
+score :  246.7835235595703
+predict : B-TIME O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME O B-PER I-PER O O O O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  457.7092590332031
+predict : O B-LOC O O O O O O B-LOC O O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG O O O B-LOC O O O O O O O O 
+score :  162.8639373779297
+predict : O O O O O O O O O B-TIME O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O B-LOC O B-LOC O O O O 
+tagets : O O O O O O O O O B-TIME I-TIME I-TIME O B-ORG O O O O O B-ORG O B-ORG I-ORG O O O O O O O O O O O B-LOC O O B-LOC O O O O O B-LOC O B-LOC O O O O 
+score :  509.1642150878906
+predict : O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O 
+score :  294.0816345214844
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  36.56260681152344
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  158.9797821044922
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O 
+score :  244.02474975585938
+predict : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O 
+tagets : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O 
+score :  373.86663818359375
+predict : O O O O O O O O O O O O O O B-ROLE O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  194.8843536376953
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  347.3883972167969
+predict : O O O O O O B-TIME I-TIME O O O B-ROLE B-PER B-TIME I-TIME O O B-TIME I-TIME O O O O O O 
+tagets : O O O O O O B-TIME I-TIME O O O O O O B-LOC O O B-TIME I-TIME O O O O O O 
+score :  225.17672729492188
+predict : O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  407.1706848144531
+predict : B-PER I-PER O O O B-LOC O O O O O O O O O B-ORG I-ORG O O B-ORG I-ORG O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O 
+tagets : O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE I-ROLE B-ROLE I-ROLE I-ROLE I-ROLE I-ROLE I-ROLE I-ROLE I-ROLE I-ROLE O O O O O O O O O O O O O O O O O 
+score :  538.1524658203125
+predict : O O O O O O O O O O O O O O O O O O O B-PER O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O 
+score :  267.3009338378906
+predict : O O O O O O O O O O O O O O O O O B-LOC O O 
+tagets : O O O O O O O O O O O O O O O O O B-LOC O O 
+score :  208.89041137695312
+predict : B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O 
+score :  518.6089477539062
+predict : B-ORG B-ROLE B-PER O O O O O O O B-LOC O O O 
+tagets : B-ORG B-ROLE O O O O O O O O O O O O 
+score :  128.6602325439453
+predict : B-PER B-ROLE O O O O O O O B-ORG I-ORG O B-LOC B-ROLE O O O O O O O O O O O O B-TIME I-TIME I-TIME B-ROLE O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O B-ORG I-ORG I-ORG O B-PER B-ROLE I-ROLE B-PER O O O O O O O O O O B-TIME I-TIME B-PER B-ROLE O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  681.5379638671875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  651.7301025390625
+predict : O O O B-ROLE O O O O O O O O O O B-LOC O O O O O 
+tagets : O O O B-ROLE O O O O O O O O O O B-LOC O O O O O 
+score :  190.2939453125
+predict : O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  638.1015625
+predict : B-LOC O B-ROLE O O O B-PER O O O O O O O O O O O O O O O O O O B-ROLE O O 
+tagets : B-ORG O B-PER O O O B-PER O O O O O O O O O O O O O O O O O O B-PER O O 
+score :  287.6101989746094
+predict : B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC B-ROLE B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  360.07171630859375
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  217.84056091308594
+predict : O B-ORG I-ORG I-ORG O O O B-LOC O O O B-ORG O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  361.68524169921875
+predict : O O O O O B-TIME I-TIME O O O O O O O B-TIME I-TIME I-TIME I-TIME O 
+tagets : O O O O O B-TIME I-TIME O O O O O O O B-TIME I-TIME I-TIME I-TIME O 
+score :  191.9539031982422
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  22.506813049316406
+predict : O O O O O O O O O O O O O O O O O B-LOC I-LOC I-LOC I-LOC O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  251.38916015625
+predict : O O O O O O O B-PER I-PER I-PER O O O B-LOC O B-LOC O O O O O O O O O O O O O O 
+tagets : O O O O O O B-ROLE O O O O B-PER I-PER B-TIME O O O O O O O O O O O O O O O O 
+score :  282.44696044921875
+predict : O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O 
+score :  215.35963439941406
+predict : O O O B-LOC O O O O O B-LOC O O O O O O 
+tagets : O O O B-LOC O O O O O B-LOC O O O O O O 
+score :  183.33474731445312
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-ROLE O O O O O O O O O O O O O O O O O 
+score :  205.08029174804688
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  409.4244689941406
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  304.38568115234375
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  128.4691162109375
+predict : O O O O O O O 
+tagets : B-ORG I-ORG O O O O O 
+score :  57.94268798828125
+predict : O O O O O O B-LOC O O O O O O O B-LOC I-LOC O O O O 
+tagets : O O O O O O B-LOC O O O O O O O B-LOC I-LOC O O O O 
+score :  217.03501892089844
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  243.160400390625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  55.022743225097656
+predict : B-PER I-PER O O O B-PER I-PER O O O O O B-PER O O O O O O O O 
+tagets : O O O O O B-TIME I-TIME O O O O O B-PER O O O O O O O O 
+score :  215.3784942626953
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  159.3917236328125
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  209.69638061523438
+predict : O O B-LOC O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  353.74774169921875
+predict : O O O B-LOC O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O O 
+tagets : O O O B-ORG O O O O B-LOC O O O O O B-LOC O O O O O O O O O O O O O 
+score :  301.6107177734375
+predict : O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-TIME I-TIME O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O 
+score :  339.4082336425781
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  237.1909942626953
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  191.32461547851562
+predict : B-ORG B-ROLE B-PER B-TIME O O O O O O B-LOC O B-TIME O O O O O O O O B-LOC O O O O O O O 
+tagets : B-ORG B-ROLE B-PER B-TIME O O O O O O B-ORG I-ORG I-ORG O B-PER O O O O O O B-LOC O O O O O O O 
+score :  283.7966003417969
+predict : B-ORG O O O O O O O O O O O O O O O B-TIME I-TIME O O O O O B-TIME I-TIME O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O B-TIME I-TIME O O O O O B-TIME I-TIME O O O O O O O 
+score :  328.5291748046875
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW O B-ROLE O B-PER O O 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW B-LAW I-LAW B-LAW I-LAW 
+score :  82.50496673583984
+predict : B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-PER I-PER O B-LOC O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-LOC O O B-LOC O O O B-LOC O O O O O 
+score :  182.3575897216797
+predict : O O O O O B-ORG I-ORG I-ORG O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  161.4761199951172
+predict : B-ORG I-ORG O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-LOC O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O 
+score :  303.7032775878906
+predict : B-ORG B-ROLE O O O O O O O O O O O O B-ROLE O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O B-ROLE I-ROLE O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  506.47186279296875
+predict : O B-ORG I-ORG O O O O O O O 
+tagets : O O B-LOC B-LOC B-PER O O O O O 
+score :  91.18843841552734
+predict : B-PER I-PER B-ROLE B-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER B-ROLE B-PER I-PER I-PER I-PER I-PER I-PER I-PER I-PER O O O O O B-ROLE O O O O O O O O O 
+tagets : B-ORG I-ORG O B-PER I-PER I-PER I-PER I-PER I-PER I-PER O B-ORG I-ORG O B-PER I-PER I-PER I-PER I-PER I-PER B-TIME I-TIME O O O O O B-ROLE O O O O O O O O O 
+score :  338.13848876953125
+predict : O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O B-ROLE O O O O B-ROLE O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O B-ROLE O O O O B-ROLE O O O O O O O O 
+score :  657.7362060546875
+predict : O O O O O O O O O B-LOC O B-LOC O O O O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O 
+score :  379.58563232421875
+predict : O O B-ORG B-ROLE B-PER I-PER B-TIME I-TIME O O O O O O O O O O O O O O 
+tagets : B-ORG I-ORG I-ORG B-ROLE B-PER I-PER B-TIME I-TIME O B-LOC O B-LOC O O O O O O O O O O 
+score :  181.9469757080078
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  197.26339721679688
+predict : O O O O B-ORG O O O O O O O O O 
+tagets : B-TIME I-TIME O O B-ORG O O O O O O O O O 
+score :  149.9357147216797
+predict : O O O O O O O O O O 
+tagets : O O O O O O O O O O 
+score :  112.35774993896484
+predict : B-LOC B-ROLE B-PER O O O O O O O O O O O O O O O 
+tagets : B-ORG B-ROLE B-PER O O O O O O O O O O O O O O O 
+score :  194.51727294921875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  403.6837158203125
+predict : O O O O O O O O O O O O O O O O O O O O O O B-LOC O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  278.8704833984375
+predict : O O O O O O O O O O O O B-ROLE O O O O O O B-ROLE I-ROLE I-ROLE O O O O O O B-LOC O O O O O O O B-ROLE O B-ORG O O O O O 
+tagets : O O O O O O O O O O O O B-ROLE O O O B-PER O O O O B-LOC O O O O O O O O O O O O O O B-ROLE O B-ROLE O B-ROLE O O O 
+score :  382.65594482421875
+predict : O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG B-ROLE O B-ORG B-ROLE B-PER B-TIME O B-LOC O O O O B-PER I-PER I-PER O O B-ROLE O B-ORG I-ORG I-ORG I-ORG O 
+tagets : O B-ORG B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG B-ROLE O B-ORG B-ROLE B-PER B-TIME O B-LOC O O O B-ROLE B-PER I-PER I-PER I-PER O B-ROLE O B-ORG I-ORG I-ORG I-ORG O 
+score :  260.0951843261719
+predict : B-ORG I-ORG I-ORG O O O O O O 
+tagets : B-LOC O O O O O B-TIME I-TIME O 
+score :  78.17536926269531
+predict : O O O O O O O O O O O O O O B-ROLE B-PER O O O B-LOC O O O O O O 
+tagets : O O O O O O O O O O O O O O O B-PER O B-PER O B-PER O O O O O O 
+score :  257.9910888671875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  732.8247680664062
+predict : O O B-LOC O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O B-PER I-PER O O O O O O O O O O O O O O O O O O O O O 
+score :  263.27880859375
+predict : O O O O O O O O O O B-PER O O O O O 
+tagets : O O O O O B-ROLE O O O O B-ROLE O O B-ROLE O O 
+score :  147.48065185546875
+predict : B-TIME I-TIME I-TIME I-TIME O O O O B-PER O O O O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME O O O O B-PER O O O O O O O O O O O B-ROLE O O B-PER O B-ROLE B-PER O 
+score :  238.80848693847656
+predict : O B-ORG O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-ORG O O B-ORG O O O O O O O O O O O O O O B-ROLE O O O O O O O O O 
+score :  272.27484130859375
+predict : O O O O B-PER O O B-ORG O O O B-ROLE O O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-PER I-PER O B-PER O O O O O O O O O O O O O O O O O O O O O O 
+score :  271.5738220214844
+predict : O O B-ORG O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-ORG O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  365.9590148925781
+predict : O O O B-ORG I-ORG B-PER O B-PER O O O O O 
+tagets : O O O O O B-PER O B-PER O O O O O 
+score :  116.92633056640625
+predict : O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  127.2154541015625
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  194.2155303955078
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  115.27836608886719
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  96.29255676269531
+predict : O O O O O O O O O O O O O O 
+tagets : O O B-LOC O O O O O O O O O O O 
+score :  156.11341857910156
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O B-ROLE O O O O O O O O O O O O O O O O O 
+score :  184.62310791015625
+predict : B-ROLE O O O O O O O O O O O O O O O O O O O O B-PER O O 
+tagets : O O B-TIME I-TIME O B-ORG I-ORG B-ROLE O O O O O B-ROLE O O O O O O O O O O 
+score :  211.96383666992188
+predict : B-ORG O O O O O O B-TIME O O O O O O O O O 
+tagets : B-LOC O O O O O B-ORG B-TIME O O O O B-ORG O B-TIME I-TIME O 
+score :  158.1998748779297
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  163.59512329101562
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  26.806570053100586
+predict : B-ORG O O O O O O O O O 
+tagets : B-LOC O O O O O O O O O 
+score :  81.79838562011719
+predict : B-PER O B-PER O B-LOC O O O O O O O B-LOC B-LOC O O O O O O B-LOC O O O O O O O O O O O O O O O O 
+tagets : B-PER O B-PER O B-LOC O O O O O O O B-LOC B-LOC O O B-PER O O O B-LOC I-LOC O O O O O O O O O O O O O O O 
+score :  360.68603515625
+predict : B-PER O O O O O O O O O O O O B-TIME I-TIME O O O 
+tagets : O O O O O O O O B-PER O B-ORG I-ORG O B-TIME I-TIME O O O 
+score :  168.33123779296875
+predict : O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O 
+score :  153.70436096191406
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O O O O O B-LOC I-LOC I-LOC O O O 
+score :  284.0323181152344
+predict : B-ORG B-ROLE I-ROLE B-PER B-TIME O B-ORG O O B-ORG I-ORG I-ORG B-ROLE B-PER I-PER O O O O B-LOC O O O 
+tagets : B-ORG B-ROLE I-ROLE B-PER B-TIME O B-ORG O O B-ORG I-ORG I-ORG B-ROLE B-PER I-PER I-PER I-PER O O B-ORG I-ORG I-ORG O 
+score :  194.04745483398438
+predict : O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O 
+score :  175.99964904785156
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O 
+score :  287.00006103515625
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  296.7421875
+predict : O O O O O O O O O B-ORG O B-LOC O O O O B-LOC O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O 
+tagets : O B-TIME I-TIME O O B-ORG O O O B-ORG O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O 
+score :  481.494873046875
+predict : O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  530.1376342773438
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  214.2045135498047
+predict : B-LOC B-TIME O O O O O O O O O O O O O O O O O O O B-LOC O O O O 
+tagets : B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  292.4331359863281
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  169.37130737304688
+predict : B-ORG B-ROLE I-ROLE O O B-ROLE O O B-ORG I-ORG B-ROLE I-ROLE B-PER I-PER O O O O O O 
+tagets : B-ORG B-ROLE I-ROLE O B-ORG B-ROLE B-PER O B-ORG I-ORG B-ROLE I-ROLE B-PER I-PER O O O O O O 
+score :  168.54583740234375
+predict : O O B-PER O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  167.78924560546875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-ROLE O O O O O O O O O O O O O O O B-ROLE O O O O O O O O 
+score :  288.6100769042969
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  53.35782241821289
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O 
+score :  230.9111785888672
+predict : O O O O O O O O O O O O O 
+tagets : O O B-TIME O O O O O O O O O O 
+score :  149.9781036376953
+predict : O O O O O O O O O B-ORG O O O O B-ROLE B-PER O 
+tagets : O O O O O O O O O B-ORG O O O O O B-ORG O 
+score :  162.8061981201172
+predict : O O O O O O O O O O O B-ROLE O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  179.44688415527344
+predict : O O O O O O O O 
+tagets : O O O O O O O O 
+score :  86.6006851196289
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  466.6599426269531
+predict : O O O O O O B-LOC O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  265.19256591796875
+predict : O 
+tagets : O 
+score :  8.128135681152344
+predict : O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O 
+score :  310.49578857421875
+predict : B-PER O O B-LOC O O O O O O 
+tagets : B-PER O O B-LOC I-LOC O O O O O 
+score :  109.14574432373047
+predict : B-PER O B-ORG I-ORG I-ORG O O O O O O O O O O B-ORG O O B-LOC O O O B-ORG O O O O O O O O O 
+tagets : B-PER O B-PER O B-ORG O B-ROLE O O O O O O O O B-ORG O O B-LOC O O O B-ORG O O O O O O O O O 
+score :  297.79217529296875
+predict : O B-ORG I-ORG O O B-ROLE I-ROLE B-PER I-PER B-ROLE O O O O O O O O O O 
+tagets : O O O B-ROLE O B-LOC B-ORG I-ORG I-ORG B-ROLE B-PER O O O O B-ROLE O O O O 
+score :  158.9423370361328
+predict : O O O O O O O O B-ROLE O O O O 
+tagets : O O O O O O O O O O O O O 
+score :  121.61393737792969
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O B-ROLE O O O O O O O O O O O O 
+score :  178.42706298828125
+predict : O O O O O O O O O 
+tagets : O O O O O O O O O 
+score :  98.72476196289062
+predict : O O O O O O O O O O O O O O B-TIME O O O O O O B-PER O O O O O O O O O O O O O O O O O 
+tagets : O O B-TIME O B-LOC I-LOC I-LOC I-LOC O O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  374.34649658203125
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  557.2734985351562
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  90.1784439086914
+predict : O O O O B-PER O O O O O O O O O O 
+tagets : O O O O B-PER I-PER O O O O O B-PER O O O 
+score :  127.77311706542969
+predict : O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O 
+tagets : O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  544.62158203125
+predict : B-PER O O O O O O O O O O O O O O 
+tagets : B-LOC O O O O O O O O O O O O O O 
+score :  167.90992736816406
+predict : O B-TIME I-TIME O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O B-PER O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  218.39585876464844
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  23.353029251098633
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  785.589111328125
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  126.85614013671875
+predict : B-TIME O B-LOC B-ORG O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O 
+tagets : B-TIME O B-LOC O O O O O O B-LOC B-ROLE I-ROLE O O O O O 
+score :  141.60043334960938
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  545.7119750976562
+predict : O O O O O O O O O 
+tagets : O O O O O O O O O 
+score :  104.65341186523438
+predict : O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  169.45155334472656
+predict : O O O O O O O O O B-LOC O O O O O O O O O O O O O B-ORG O O O O O O O 
+tagets : O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O 
+score :  278.360107421875
+predict : O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O 
+score :  272.13189697265625
+predict : O O O O O O O O O O 
+tagets : O O O O B-PER O O B-ORG B-ROLE O 
+score :  120.48545837402344
+predict : O 
+tagets : O 
+score :  10.12692642211914
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O O O O O O O B-LOC O O O B-ORG I-ORG I-ORG I-ORG O O O O O O 
+score :  225.4084014892578
+predict : B-LOC B-ORG I-ORG I-ORG O O O B-ROLE O B-ORG I-ORG O O O O 
+tagets : B-ORG I-ORG I-ORG I-ORG O O O O O B-LOC B-LOC O O B-PER O 
+score :  128.60902404785156
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  59.25126647949219
+predict : O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O 
+score :  245.6497344970703
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  317.05816650390625
+predict : B-TIME I-TIME I-TIME I-TIME O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O O O B-PER O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG O O O B-PER O O O O O O O O O O 
+score :  469.5899658203125
+predict : O B-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  378.9598693847656
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  177.36927795410156
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME B-PER O B-ORG O B-PER O B-ORG O B-PER I-PER O O O O O O O O O O O O O O B-LOC O O O B-LOC I-LOC O O O O O O 
+tagets : O B-TIME O O B-ROLE O O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER I-PER O O O O O O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER I-PER O B-PER O O O O 
+score :  500.7117919921875
+predict : O O O O 
+tagets : O O O O 
+score :  43.329856872558594
+predict : O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O 
+tagets : O O O O O O O O B-LOC O O O O O O O O O O 
+score :  174.2724609375
+predict : O B-ORG I-ORG O O O B-LOC O O O O O O O O O B-ORG O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O B-LOC O O B-ORG B-ROLE O O O O O O O O O B-ORG O O O O O O 
+tagets : O O B-PER O O O B-LOC O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O B-ROLE I-ROLE O B-ROLE O O O O O O O O O O O O O O 
+score :  621.412353515625
+predict : O O O O O O O O O O O O O O O B-ORG I-ORG O B-ORG B-ROLE O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  267.33184814453125
+predict : O O O O O O O O O O B-PER O O O O O 
+tagets : O O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O B-PER O 
+score :  153.0123748779297
+predict : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O 
+tagets : O O O O O O O O O O O B-TIME O B-TIME O O O B-ORG O O O B-ORG I-ORG I-ORG O O O 
+score :  287.7371826171875
+predict : B-LOC B-ROLE B-PER I-PER I-PER B-TIME I-TIME B-ORG I-ORG B-ROLE B-PER O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O 
+tagets : B-LOC B-ROLE B-PER I-PER I-PER B-TIME I-TIME O B-LOC O B-PER O O O O O B-LOC O B-LOC O B-ORG O O O O O O O O O O O O O O O O O O O O O O B-LOC O O B-LOC O O O O 
+score :  454.8746337890625
+predict : O B-ORG I-ORG I-ORG B-ROLE I-ROLE I-ROLE I-ROLE O O O O O O O 
+tagets : O O O O O O O B-LOC O O O O O O O 
+score :  124.77801513671875
+predict : O O O O O O O O O O 
+tagets : O O O O O O O B-TIME I-TIME O 
+score :  81.49113464355469
+predict : O O O O O O O O B-ORG I-ORG I-ORG O O O B-ORG B-ROLE O O O O O O O B-TIME O O O O O O O O O 
+tagets : O O O O O O O O B-ORG I-ORG I-ORG O O O B-ORG I-ORG O O O B-ORG I-ORG I-ORG O O O O O O O O O O O 
+score :  305.71417236328125
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW B-LAW I-LAW B-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME B-CRIME I-CRIME I-CRIME B-CRIME I-CRIME I-CRIME B-CRIME I-CRIME I-CRIME 
+score :  141.22323608398438
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  341.16021728515625
+predict : B-ORG I-ORG I-ORG O O O O O O B-ROLE O O O O 
+tagets : O O B-ROLE O O B-ROLE O O O B-ROLE O O O O 
+score :  129.2775115966797
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  179.4965057373047
+predict : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O 
+tagets : O O O O O O O O O O O O O O O O B-TIME O O B-TIME O O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O 
+score :  397.8419189453125
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  115.67884063720703
+predict : O B-TIME O O O O O O O O O O O O O O O 
+tagets : O B-TIME O O O O O O O B-ORG I-ORG O O O O O O 
+score :  190.1301727294922
+predict : O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  250.2766876220703
+predict : O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  333.6885986328125
+predict : O O O O O O O O O O O B-ROLE O O O O O O B-TIME I-TIME O B-ORG I-ORG O O B-LOC O O O O O O 
+tagets : B-PER O O O O O O O O B-LOC B-LOC I-LOC O O O O O O O O O B-LOC O O O B-TIME O O O O O O 
+score :  289.4406433105469
+predict : O O O B-ORG O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-ORG O O O O O O B-ORG O O B-ORG O O O O O O O O O O O O O B-ORG O O O O O O 
+score :  372.11370849609375
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  117.84928894042969
+predict : O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC I-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  343.9091796875
+predict : O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-LOC B-LOC B-LOC O O O O O O O O O O O O O O O O 
+score :  191.7119903564453
+predict : O O O O O B-LOC B-ROLE O O B-LOC O B-PER O B-LOC O O O O 
+tagets : B-PER O O O O B-LOC O O O B-LOC O O O B-LOC O O O O 
+score :  166.8336639404297
+predict : O O O B-TIME O B-ORG O O O O O 
+tagets : O O O O O O O O O O O 
+score :  93.5031967163086
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O B-ROLE O O O O O O O O O O 
+score :  246.36094665527344
+predict : B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG O O B-PER I-PER O O O B-ROLE O O B-LOC O O O B-LOC O O O O B-ORG O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG O O O O O O O O O O B-LOC O O O B-LOC O O O O O O O O O O O B-LOC O O O O 
+score :  331.3627014160156
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  159.82794189453125
+predict : B-ORG O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O 
+tagets : B-ORG O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O O 
+score :  138.90017700195312
+predict : B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  436.7705078125
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  337.4778747558594
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  451.5792541503906
+predict : O O O O O O O O O O O B-LOC O O O O O O O O O 
+tagets : O O O O O O O O O O O B-LOC O O O O O O O O O 
+score :  218.48727416992188
+predict : O O O O O O O O O O 
+tagets : O B-ORG I-ORG O O O B-PER O B-ORG O 
+score :  79.66429901123047
+predict : O O O O O O O O O 
+tagets : B-LOC I-LOC O O O B-PER O O O 
+score :  80.54732513427734
+predict : O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O B-ROLE O O O O O O O O O O O O O 
+score :  253.15872192382812
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  26.597309112548828
+predict : B-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME 
+score :  33.77174758911133
+predict : B-LOC B-ROLE B-PER B-TIME I-TIME O O O O O O O O O O O O 
+tagets : B-LOC B-ROLE B-PER B-TIME I-TIME O B-PER O O O O B-LOC O B-PER O O O 
+score :  159.4725799560547
+predict : O O O O O O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  427.9574279785156
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  647.5166625976562
+predict : B-ORG I-ORG I-ORG O B-ROLE B-PER O B-ORG I-ORG O O O O B-ROLE B-PER I-PER O B-ROLE O O O O O O O O O 
+tagets : B-ORG I-ORG I-ORG O B-ROLE B-PER O B-PER I-PER O O O O B-ROLE B-PER I-PER O B-ROLE B-PER O O O O O O O O 
+score :  244.6440887451172
+predict : O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-ORG O O O O O O O B-PER I-PER O O O O O B-ROLE O O O O O O B-ORG O O O 
+score :  261.6936950683594
+predict : B-PER O O O O O B-TIME I-TIME O B-ORG O O O O O O O O 
+tagets : B-PER O B-ORG O O O B-TIME I-TIME O B-ORG O O O O O O O O 
+score :  144.35079956054688
+predict : O O O B-PER I-PER O O O 
+tagets : O O O B-ORG I-ORG O O O 
+score :  56.742942810058594
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  77.35948944091797
+predict : O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O 
+score :  176.63607788085938
+predict : O O O O B-ORG I-ORG O O B-LOC O O O O O O O B-LOC I-LOC O O O O B-PER O O O O 
+tagets : O O O O B-LOC I-LOC O B-LOC I-LOC O B-LOC O O O O O B-LOC I-LOC O O O O O O O O O 
+score :  214.27178955078125
+predict : O O O O O O O O B-LOC O O O O O O O O O O O O 
+tagets : O O O O O O O O B-LOC O O O O O O O O O O O O 
+score :  241.41712951660156
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  51.654239654541016
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  273.33544921875
+predict : O O B-ORG O O O B-ORG I-ORG O B-PER O O O O B-LOC B-ORG O B-LOC O O O O O O O 
+tagets : O O B-ORG O B-PER O B-ORG I-ORG O B-PER I-PER O O O B-LOC O O B-LOC O O O O O O O 
+score :  210.08297729492188
+predict : B-ORG I-ORG O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O 
+score :  313.06854248046875
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  51.7012939453125
+predict : O O O B-ORG I-ORG O O O O O O O O O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG O O B-ORG O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  582.5018310546875
+predict : O B-ROLE B-PER O O O B-ORG O B-PER O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O 
+tagets : O B-ROLE B-PER O O O B-ORG I-ORG B-ROLE O O O O O O O O O O O O O O O O O B-LOC O O O O O O O B-ORG O O 
+score :  371.81597900390625
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  32.795040130615234
+predict : B-LOC O O O O O O O O O O O B-LOC O O O O B-LOC O B-LOC O O O O O O O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O 
+tagets : B-LOC O O O O O O O O O O O O O O O O B-LOC O B-LOC O B-TIME I-TIME O O O O O O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O B-LOC O O O O O O O O B-LOC O O O O O O O O O O O O O B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O 
+score :  1349.142578125
+predict : O O B-ORG I-ORG I-ORG B-TIME I-TIME I-TIME I-TIME I-TIME O O B-LOC B-LOC O O 
+tagets : O B-ORG B-LOC O O B-TIME I-TIME I-TIME I-TIME I-TIME O O B-LOC B-LOC O O 
+score :  133.0316162109375
+predict : O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O 
+score :  189.83209228515625
+predict : O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O B-ORG O B-ORG O O O O O O O O O O O O O O O O O O O O O O 
+score :  305.8280944824219
+predict : O O O O O O O O O O O B-LOC O O B-LOC O O O O O B-LOC O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O B-LOC O O B-LOC O O O O O O O O O O O O O O O O O O O O 
+score :  349.75347900390625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  51.64096450805664
+predict : B-TIME O O O O O O O B-ORG B-ROLE O O O O O O O O O O O O O O O O 
+tagets : B-TIME I-TIME O O B-TIME O B-ROLE O B-ROLE I-ROLE O O O O O O O O O O O O O O O O 
+score :  278.411865234375
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  43.993560791015625
+predict : O O O O O O O O O O O O O O O O O O B-ORG O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O B-LOC O O O O O O O O O O O 
+score :  296.77728271484375
+predict : B-ORG I-ORG O O O O O O B-ORG I-ORG I-ORG O B-ROLE B-PER B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+tagets : B-ORG I-ORG O O O O O O O O O O B-ROLE B-PER B-CRIME O O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O B-ORG O O 
+score :  223.78497314453125
+predict : O O O B-ORG O O O O O O O 
+tagets : O O O B-ORG O O O O O O O 
+score :  133.77330017089844
+predict : B-ORG I-ORG O O O O O O B-LOC O O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O O O O O O 
+tagets : O B-PER O O O O O O B-LOC O B-ORG O O O B-LOC O B-PER O O O O O O O B-LOC O O O O O O O O O O O O O 
+score :  357.4130554199219
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-ROLE O O O O O O O O O O O O O O O O O O O O O O 
+score :  318.47869873046875
+predict : O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O 
+score :  231.02528381347656
+predict : I-ORG O O B-LOC B-LOC O O O O O O O O O B-LOC O O O O O O O 
+tagets : O O O B-LOC B-LOC O O O O O O O O O B-LOC O O O O O O O 
+score :  201.5371551513672
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  198.6678466796875
+predict : O B-LOC O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O 
+score :  205.10081481933594
+predict : O O O B-ORG O B-PER O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  123.38703155517578
+predict : O B-ORG I-ORG I-ORG I-ORG I-ORG I-ORG B-TIME I-TIME I-TIME I-TIME O B-LOC B-LOC O O 
+tagets : O O B-LOC O O O O B-TIME I-TIME I-TIME I-TIME O B-LOC B-LOC O O 
+score :  132.66416931152344
+predict : B-PER I-PER O O O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O O O O 
+tagets : B-PER I-PER I-PER O B-ORG O O O O O O O O O O O B-ORG I-ORG O O O O O O O O 
+score :  239.4591827392578
+predict : B-TIME I-TIME O O O O O O O 
+tagets : B-TIME I-TIME O B-ORG O O B-ROLE O O 
+score :  77.51248931884766
+predict : B-ORG I-ORG O O O O O O O O O 
+tagets : B-ORG O O O O O O O O O O 
+score :  102.22590637207031
+predict : O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O 
+score :  174.48976135253906
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  46.505615234375
+predict : O B-LOC B-ROLE I-ROLE O O O O O O O O O O O O 
+tagets : O B-LOC B-LOC B-LOC O O O O O O O O O O O O 
+score :  157.8052520751953
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  28.078012466430664
+predict : O O O O O O O O O O O O 
+tagets : B-LOC I-LOC O O O O O O O O O O 
+score :  107.543212890625
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  73.45062255859375
+predict : O B-LOC B-TIME I-TIME I-TIME I-TIME O O O O O B-TIME O O O O B-TIME I-TIME O O O O O O O O O O O 
+tagets : O B-LOC B-TIME I-TIME I-TIME I-TIME O B-ORG I-ORG I-ORG I-ORG B-TIME O O O O B-TIME I-TIME O O O O O O O O O O O 
+score :  261.4754333496094
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  390.5556945800781
+predict : O O O O O O O O O O O O O O O O O O B-ORG B-TIME I-TIME I-TIME I-TIME O O 
+tagets : O O O O O B-LOC O O O O O O O O O O O O B-LOC B-TIME I-TIME I-TIME I-TIME O O 
+score :  238.98536682128906
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+score :  111.55978393554688
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  224.68910217285156
+predict : O B-ORG I-ORG B-ROLE O O O O O O O O O O O O O O O O O O O O 
+tagets : O B-ORG I-ORG I-ORG I-ORG I-ORG O O O O O O O O O O O O O O O O O O 
+score :  235.52659606933594
+predict : O O O O O O B-ROLE O O O 
+tagets : O B-LOC O O O O O O O O 
+score :  108.15555572509766
+predict : O O O O O O O O O O O O O 
+tagets : O O O O B-ORG I-ORG O O O O O O O 
+score :  149.36465454101562
+predict : O O B-ORG I-ORG I-ORG I-ORG B-ROLE O O O O 
+tagets : B-PER O B-LOC O O O O O O O O 
+score :  76.76178741455078
+predict : B-LOC O O B-LOC O O B-LOC O O B-LOC O O O O O O B-LOC O O O O 
+tagets : O O O O O O O O O O O O O O O B-LOC I-LOC O O O O 
+score :  203.15785217285156
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  61.999351501464844
+predict : O O O O O O O O O O O O O O O O O O O O O B-ROLE B-PER O O O O O 
+tagets : O O O O O O O O O O O O O O O O O B-ROLE I-ROLE O O O O O O O O O 
+score :  303.3654479980469
+predict : O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O 
+score :  236.6690216064453
+predict : B-LOC O B-TIME I-TIME I-TIME I-TIME I-TIME I-TIME I-TIME O O O O B-LOC O O O O O O O O O O O B-ORG I-ORG I-ORG O O O O O 
+tagets : B-LOC B-LOC B-TIME I-TIME I-TIME I-TIME O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  265.2882385253906
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  126.96815490722656
+predict : O O O O O O O O O O O 
+tagets : O O O O O O O O O O O 
+score :  130.70335388183594
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  62.95713424682617
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  286.9949951171875
+predict : O O O O O O O O O O O 
+tagets : O O B-LOC B-LOC O O O O O O O 
+score :  112.09588623046875
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O B-LOC O O O O B-LOC O O O O O O O O O O B-ROLE I-ROLE B-PER O 
+score :  382.93017578125
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-TIME I-TIME O 
+score :  373.82861328125
+predict : B-TIME I-TIME I-TIME O O O O O O O O O O O O 
+tagets : B-TIME I-TIME I-TIME O O O O O O B-ORG I-ORG I-ORG I-ORG O O 
+score :  123.30936431884766
+predict : B-TIME I-TIME I-TIME O O O O O O O O O 
+tagets : O O O O B-LOC O O O O B-ROLE O O 
+score :  103.4715347290039
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  401.8951110839844
+predict : B-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME 
+score :  30.4029541015625
+predict : O O O B-ORG I-ORG O O O O O O B-LOC O B-LOC O O O O O O O 
+tagets : O B-ORG O B-ORG I-ORG O O O O O O O O O O O O O O O O 
+score :  178.61851501464844
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-PER O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  502.5755310058594
+predict : B-LOC O O O O O O O O O O 
+tagets : B-LOC B-PER O O O O O O O O O 
+score :  93.78738403320312
+predict : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+tagets : B-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW I-LAW B-LAW I-LAW I-LAW 
+score :  99.40459442138672
+predict : O O O O O O O O O B-ORG O O B-ORG O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  247.43231201171875
+predict : O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  533.2232055664062
+predict : O O O O O B-ORG I-ORG O O B-ORG B-ROLE O O O O O O O O O O O O O O B-LOC O O O O 
+tagets : O B-ORG O B-ORG O B-ORG I-ORG O O B-ORG O B-PER O O O O O O O O O B-ORG O O O B-PER O O O O 
+score :  269.55682373046875
+predict : B-PER O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O 
+score :  113.37017822265625
+predict : O O B-ORG I-ORG O O O O O O O O O O O O O O O O 
+tagets : O O B-ORG O O O O O O O O O O O O O O O O O 
+score :  227.76834106445312
+predict : O O O O O O O O B-LOC I-LOC O O O O O B-LOC O O O O O O O O O B-ORG I-ORG O O O O O O O 
+tagets : O O O O O O O O B-ROLE I-ROLE I-ROLE O O O O B-LOC O O O O O O O O O B-LOC O O O O O O O O 
+score :  347.23553466796875
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  53.580875396728516
+predict : B-TIME I-TIME O O O O O B-ROLE O O O O O O O O O O O O O O O B-ROLE O O O B-PER O O 
+tagets : B-TIME I-TIME O O O O B-ROLE I-ROLE O O O O O O O O O O O O O O O O O O O O O O 
+score :  269.0095520019531
+predict : O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O 
+score :  171.2516326904297
+predict : B-PER I-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : B-PER O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  320.4049072265625
+predict : B-PER O O O O O O O O O O O O O O 
+tagets : B-ROLE O O O O O O O O O O O O O O 
+score :  148.7313995361328
+predict : O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O 
+score :  127.19845581054688
+predict : B-LOC O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O B-ORG I-ORG I-ORG I-ORG O O O 
+tagets : B-ORG O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  382.4645080566406
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O B-ORG I-ORG O O O O O O O O O O O O O O O O O O O O O O O 
+score :  356.1474609375
+predict : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+tagets : O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+score :  352.528076171875
+predict : B-PER B-ROLE O O B-TIME I-TIME I-TIME O B-LOC O O B-PER O O O O O O O O O O O O O 
+tagets : B-PER B-ROLE O O B-TIME I-TIME I-TIME O B-LOC O O B-PER B-ROLE O O O O O O O O O O O O 
+score :  232.70570373535156
+predict : O O B-ORG O O B-ROLE B-PER O O O O O O 
+tagets : O O B-ORG I-ORG O O O O O O O O O 
+score :  134.45188903808594
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  50.30146789550781
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  61.37640380859375
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  72.40303802490234
+predict : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+tagets : B-CRIME I-CRIME I-CRIME I-CRIME I-CRIME 
+score :  42.97861862182617
